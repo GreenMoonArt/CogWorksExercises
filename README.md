@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microphone
 
 Provides a simple interface for configuring and utilizing a microphone in Python.
@@ -58,3 +59,7 @@ from microphone import play_audio
 # Play 10 seconds of audio
 play_audio(byte_encoded_signal, 10)
 ```
+=======
+# CogWorksExercises
+Some exercises for ML class
+>>>>>>> f383b59a006de9eb925785f825d156b237df37ef
